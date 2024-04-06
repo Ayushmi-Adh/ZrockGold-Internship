@@ -9,7 +9,7 @@ Welcome to the ZrockGold Music Analysis Project! This project is part of the Zro
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
+
 
 ## Overview
 
@@ -62,10 +62,5 @@ Install these dependencies using `pip`:
 ```
 pip install pandas matplotlib seaborn
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 
