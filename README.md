@@ -27,7 +27,7 @@ The project is structured as follows:
 - `data_visualization.py`: Module for creating visualizations based on analysis results.
 - `spotify_data.json`: Sample Spotify data file for testing.
 
-## Getting Started
+## Getting Started:
 
 To get started with the project, follow these steps:
 1. Clone the repository to your local machine using Git:
