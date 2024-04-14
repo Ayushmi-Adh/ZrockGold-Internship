@@ -53,7 +53,7 @@ To run the project:
    python main.py
    ```
 
-## Dependencies
+## Dependencies:
 
 The project requires the following dependencies:
 - Python 3.x
