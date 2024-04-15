@@ -18,7 +18,7 @@ Welcome to the ZrockGold Music Analysis Project! This project is part of the Zro
 
 This project aims to analyze Spotify music listening data to gain insights into user preferences, popular artists, top songs, and trends in listening behavior. The analysis includes data loading, cleaning, analysis, and visualization tasks.
 
-## Project Structure
+## Project Structure:
 
 The project is structured as follows:
 - `main.py`: Main script that coordinates data loading, analysis, and visualization tasks.
