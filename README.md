@@ -56,7 +56,7 @@ To run the project:
 ## Dependencies:
 
 The project requires the following dependencies:
-- Python 3.x
+- Python 3. x
 - Pandas
 - Matplotlib
 - Seaborn
