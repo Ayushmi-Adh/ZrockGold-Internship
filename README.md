@@ -43,7 +43,7 @@ To get started with the project, follow these steps:
 
 To run the project:
 1. Place your Spotify data export file (CSV or Excel) in the project directory.
-2. Update the data file path in `main.py` if necessary.
+2. Update the data file path in `main.py` if necessary..
 3. Install the required dependencies using `pip`:
    ```
    pip install -r requirements.txt
