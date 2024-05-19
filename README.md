@@ -1,4 +1,4 @@
-# ZrockGold Music Analysis Project
+# ZrockGold Music-Analysis Project
 
 Welcome to the ZrockGold Music Analysis Project! This project is part of the ZrockGold internship for data analysts and focuses on analyzing music listening data obtained directly from Spotify. The goal is to perform exploratory data analysis (EDA) and generate insights into music-listening behavior.
 
