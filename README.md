@@ -25,16 +25,16 @@ The project is structured as follows:
 - `data_loader.py`: Module for loading and preprocessing Spotify data.
 - `data_analysis.py`: Module for performing data analysis tasks.
 - `data_visualization.py`: Module for creating visualizations based on analysis results.
-- `spotify_data.json`: Sample Spotify data file for testing.
+- `spotify_data.json`: Sample Spotify data file for testing..
 
 ## Getting Started:
 
-To get started with the project, follow these steps:
-1. Clone the repository to your local machine using Git:
+To get started with the project, follow these steps :
+1. Clone the repository to your local machine using Git :
    ```
    git clone https://github.com/Ayushmi-Adh/ZrockGold-Internship.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory :
    ```
    cd ZrockGold-Internship
    ```
