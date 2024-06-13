@@ -59,7 +59,7 @@ The project requires the following dependencies:
 - Python 3. x
 - Pandas
 - Matplotlib
-- Seaborn
+- Seaborn.
 
 Install these dependencies using `pip`:
 ```
