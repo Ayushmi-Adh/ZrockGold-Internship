@@ -23,7 +23,7 @@ This project aims to analyze Spotify music listening data to gain insights into 
 The project is structured as follows:
 - `main.py`: Main script that coordinates data loading, analysis, and visualization tasks.
 - `data_loader.py`: Module for loading and preprocessing Spotify data.
-- `data_analysis.py`: Module for performing data analysis tasks.
+- `data_analysis.py`: Module for performing data analysis tasks..
 - `data_visualization.py`: Module for creating visualizations based on analysis results.
 - `spotify_data.json`: Sample Spotify data file for testing..
 
